@@ -16,4 +16,4 @@ It will not surprise any Mountain Goats fans that they've [released a lot more m
 
 Preview:
 
-![](img/trelliscope.png){fig-alt="Screenshot of the trelliscope showing a grid of 10 songs by The Mountain Goats with their album art. There are buttons to let you filter, sort and other things." width="100%"}
+<img src="img/trelliscope.png" alt="Screenshot of the trelliscope showing a grid of 10 songs by The Mountain Goats with their album art. There are buttons to let you filter, sort and other things." width="100%">
