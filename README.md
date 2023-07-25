@@ -13,3 +13,7 @@ Published originally in [a blog post](https://www.rostrum.blog/2019/06/20/goat-s
 Note that the data set was collected as part of [an earlier blog post](https://www.rostrum.blog/2019/04/25/gen-tmg-lyrics/), published 2019-04-25.
 
 It will not surprise any Mountain Goats fans that they've [released a lot more material](https://en.wikipedia.org/wiki/The_Mountain_Goats_discography) since then, lol.
+
+Preview:
+
+![](img/trelliscope.png){fig-alt="Screenshot of the trelliscope showing a grid of 10 songs by The Mountain Goats with their album art. There are buttons to let you filter, sort and other things." width="100%"}
