@@ -48,5 +48,5 @@ trelliscope(
   md_desc = "[The Mountain Goats](http://www.mountain-goats.com/) are a band. Data were collected from [Genius](https://genius.com/) and [Spotify](https://www.spotify.com/) APIs using the [{genius}](https://github.com/josiahparry/genius) and [{spotifyr}](https://www.rcharlie.com/spotifyr/) R packages, respectively.",
   nrow = 2, ncol = 5,  # arrangement of panels
   state = list(labels = c("Track", "Album", "Track #", "Year", "Energy")),  # display on panels
-  path = "output"
+  path = "docs"
 )
